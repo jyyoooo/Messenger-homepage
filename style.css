@@ -14,6 +14,8 @@ header{
 .nav-text{
    color: rgba(0, 0, 0);
 }
+
+
 a.nav-text{
     padding: 1px;
     font-size: 15px;
@@ -64,6 +66,7 @@ header div nav{
 	font-size: 18px;
 	font-weight: 400;
 	width: 25rem;
+
 }
 .form-control{
     width: 320px;
